@@ -1,0 +1,16 @@
+{
+	"name": "TinyXiuxian",
+	"description": "A mod for supporting the simple XIUXIAN gameplay.\nInclude some items (ID range: 236789001~236789013) and set drops to some humanoid monsters and legendary chest.\nYellow lotus potion blocked.",
+	"changeNote": "",
+	"author": "TooWoo",
+	"authorUrl": "www.jeffzhang.cn",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 3,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2633118369",
+	"steamVisibility": 0,
+	"folderName": "TinyXiuxian",
+	"revisionNumber": 326329,
+	"snapshotId": 31198
+}
